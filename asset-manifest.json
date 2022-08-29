@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/react-webpage/static/css/main.b08812e6.css",
-    "main.js": "/react-webpage/static/js/main.73cba46a.js",
-    "static/js/787.a2cb61a6.chunk.js": "/react-webpage/static/js/787.a2cb61a6.chunk.js",
-    "static/media/yeager_road.png": "/react-webpage/static/media/yeager_road.822d069f598ce93bb52b.png",
-    "static/media/dp.jpeg": "/react-webpage/static/media/dp.e0d82143ac603d93ab3c.jpeg",
-    "static/media/cv.pdf": "/react-webpage/static/media/cv.3276c7aefaf277578765.pdf",
-    "static/media/SOP_Purdue.pdf": "/react-webpage/static/media/SOP_Purdue.652559defb366bfe6dee.pdf",
-    "static/media/helvetica-neu.ttf": "/react-webpage/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
-    "static/media/LaBelleAurore.woff": "/react-webpage/static/media/LaBelleAurore.9c5433c64baa43d1d274.woff",
-    "static/media/LaBelleAurore.woff2": "/react-webpage/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
-    "static/media/CoolveticaRg-Regular.woff": "/react-webpage/static/media/CoolveticaRg-Regular.8307bfa187bccdc55f4d.woff",
-    "static/media/CoolveticaRg-Regular.woff2": "/react-webpage/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
-    "static/media/logo.svg": "/react-webpage/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/react-webpage/index.html",
-    "main.b08812e6.css.map": "/react-webpage/static/css/main.b08812e6.css.map",
-    "main.73cba46a.js.map": "/react-webpage/static/js/main.73cba46a.js.map",
-    "787.a2cb61a6.chunk.js.map": "/react-webpage/static/js/787.a2cb61a6.chunk.js.map"
+    "main.css": "/react-website/static/css/main.a3d163c0.css",
+    "main.js": "/react-website/static/js/main.469ffa16.js",
+    "static/js/787.a2cb61a6.chunk.js": "/react-website/static/js/787.a2cb61a6.chunk.js",
+    "static/media/yeager_road.png": "/react-website/static/media/yeager_road.822d069f598ce93bb52b.png",
+    "static/media/dp.jpeg": "/react-website/static/media/dp.e0d82143ac603d93ab3c.jpeg",
+    "static/media/cv.pdf": "/react-website/static/media/cv.3276c7aefaf277578765.pdf",
+    "static/media/SOP_Purdue.pdf": "/react-website/static/media/SOP_Purdue.652559defb366bfe6dee.pdf",
+    "static/media/helvetica-neu.ttf": "/react-website/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/LaBelleAurore.woff": "/react-website/static/media/LaBelleAurore.9c5433c64baa43d1d274.woff",
+    "static/media/LaBelleAurore.woff2": "/react-website/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/CoolveticaRg-Regular.woff": "/react-website/static/media/CoolveticaRg-Regular.8307bfa187bccdc55f4d.woff",
+    "static/media/CoolveticaRg-Regular.woff2": "/react-website/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "static/media/logo.svg": "/react-website/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/react-website/index.html",
+    "main.a3d163c0.css.map": "/react-website/static/css/main.a3d163c0.css.map",
+    "main.469ffa16.js.map": "/react-website/static/js/main.469ffa16.js.map",
+    "787.a2cb61a6.chunk.js.map": "/react-website/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b08812e6.css",
-    "static/js/main.73cba46a.js"
+    "static/css/main.a3d163c0.css",
+    "static/js/main.469ffa16.js"
   ]
 }
