@@ -58,6 +58,7 @@ const Sidebar = () => {
       </nav>
 
         <table>
+          <tbody>
           <tr>
             <td>
               <a
@@ -113,7 +114,7 @@ const Sidebar = () => {
             </td> 
             <td>
               <a
-              href="https://scholar.google.com/citations?user=lVXKCPcAAAAJ&hl=en&inst=5549692440350501774"
+              href="https://scholar.google.com/citations?user=lVXKCPcAAAAJ&hl=en"
               rel="noreferrer"
               target="_blank"
               >
@@ -150,7 +151,9 @@ const Sidebar = () => {
                 />
               </a>
             </td> 
+          
           </tr>
+          </tbody>
         </table>
     </div>
   );
